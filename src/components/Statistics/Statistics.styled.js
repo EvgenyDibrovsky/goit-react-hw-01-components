@@ -8,8 +8,9 @@ export const StatSection = styled.section`
   box-shadow: rgb(0 0 0 / 10%) 0px 5px 15px;
 `;
 export const StatsTitle = styled.h2`
+  font-size: 18px;
   text-align: center;
-  padding: 15px 0;
+  padding: 20px 0;
   border-bottom: 1px solid #e4e4e4;
   text-transform: uppercase;
   color: #656a6f;
@@ -17,7 +18,7 @@ export const StatsTitle = styled.h2`
 
 export const StatsList = styled.ul`
   display: flex;
-  gap:1px;
+  gap: 1px;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;

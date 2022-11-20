@@ -6,7 +6,7 @@ export const ProfileCard = styled.div`
   margin-bottom: 15px;
   text-align: center;
   border-radius: 5px;
-  border: 2px solid #e4e4e4;
+  border: 1px solid #e4e4e4;
   cursor: pointer;
   background-color: #fff;
   box-shadow: rgb(0 0 0 / 10%) 0px 5px 15px;
@@ -27,7 +27,7 @@ export const Avatar = styled.img`
   margin-bottom: 15px;
   width: 150px;
   border-radius: 50%;
-  border: 2px solid #e4e4e4;
+  border: 1px solid #e4e4e4;
   padding: 10px;
   transition: transform 250ms linear, box-shadow 250ms linear;
 
